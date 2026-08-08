@@ -17,13 +17,12 @@ var romanToInt = function (s) {
         let next = values[s[i + 1]]
 
         if (current < next) {
-            result -= current;
-        }
-        else {
-            result += current;
+            result = result - current;
+        } else {
+            result = result + current;
         }
     }
     return result;
 };
 
-console.log(romanToInt("IX"))
+console.log(romanToInt("MMDCLXVI"))
