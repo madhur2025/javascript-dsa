@@ -1,24 +1,26 @@
 let strs = ["flower", "flow", "flight"]
 
-let min = strs[0].length
 
-for (let i = 1; i < strs.length; i++) {
-    min = Math.min(min, strs[i].length)
-}
-console.log("min",min)
+
 
 var longestCommonPrefix = function (strs) {
-    let [a, b, c] = strs
-    let comon = ""
-    for (let i = 0; i < min; i++) {
-        if (a[i] === b[i] && b[i] === c[i]) {
-            comon = comon + a[i]
-        }
-        else {
-            break
-        }
+
+    let min = strs[0].length
+
+    for (let i = 1; i < strs.length; i++) {
+        min = Math.min(min, strs[i].length)
     }
-    return comon
+    let common = ""
+
+    for (let i = 0; i < min; i++) {
+        for (let j = 1; j < strs.length; j++) {
+            if (strs[0][i] !== strs[j][i]) {
+                return common
+            }
+        }
+        common = common + strs[0][i]
+    }
+    return common
 };
 
 console.log(longestCommonPrefix(strs))
