@@ -1,8 +1,5 @@
 let strs = ["flower", "flow", "flight"]
 
-
-
-
 var longestCommonPrefix = function (strs) {
 
     let min = strs[0].length
