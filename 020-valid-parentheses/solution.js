@@ -13,6 +13,6 @@ var isValid = function (s) {
             else if (s[i] === "}" && top !== "{") return false
         }
     }
-    return true
+    return x.length === 0
 };
 console.log(isValid(s))
