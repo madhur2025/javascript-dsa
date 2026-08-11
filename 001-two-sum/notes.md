@@ -1,6 +1,6 @@
-001 two sum easy
+001 two sum easy : one given array for integers retrun the indices of two elements which sum is equal to the given target.
 
-## Brute Force Approch
+## Approch
 - create a loop.
 - create another loop inside that loop.
 - check which two elements are equal to target.
