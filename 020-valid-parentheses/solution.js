@@ -1,6 +1,4 @@
-let s = "[()]"
-
-var isValid = function (s) {
+function isValid(s) {
     let x = []
     for (let i = 0; i < s.length; i++) {
         if (s[i] === "(" || s[i] === "[" || s[i] === "{") {
@@ -15,4 +13,4 @@ var isValid = function (s) {
     }
     return x.length === 0
 };
-console.log(isValid(s))
+console.log(isValid("[()]"))

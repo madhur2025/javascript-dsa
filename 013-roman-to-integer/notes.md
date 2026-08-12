@@ -1,6 +1,6 @@
 013 roman to integer
 
-## Approch
+## Approach
 - ek object banaya roman values and numbers ka
 - ek result vairable jiski current value zero thi.
 - then function k sath aane wale string roman number ko object k sath match krke number me convert kr diya.

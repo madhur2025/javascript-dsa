@@ -1,9 +1,5 @@
-let strs = ["flower", "flow", "flight"]
-
-var longestCommonPrefix = function (strs) {
-
+function longestCommonPrefix(strs) {
     let min = strs[0].length
-
     for (let i = 1; i < strs.length; i++) {
         min = Math.min(min, strs[i].length)
     }
@@ -20,4 +16,4 @@ var longestCommonPrefix = function (strs) {
     return common
 };
 
-console.log(longestCommonPrefix(strs))
+console.log(longestCommonPrefix(["flower", "flow", "flight"]))
