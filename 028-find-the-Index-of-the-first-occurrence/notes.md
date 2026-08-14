@@ -1,4 +1,5 @@
-028 find the index of the first occurance of the word into a string.
+# 28 Find the index of the first occurance in a string
+find the index of the first occurance of the word into a string.
 
 ## Approach
 - check the string includes the word or not.

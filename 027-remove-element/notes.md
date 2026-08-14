@@ -1,4 +1,5 @@
-27 Remove element : remove all occurance of val into nums, then return the number of element in nums.
+# 27 Remove element 
+remove all occurance of given val from array, then return the number of rest element in array.
 
 ## Approach
 - create a variable (k) to count the number of elements we're adding.

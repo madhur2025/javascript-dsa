@@ -1,4 +1,5 @@
-20 valid parentheses : check every parentheses if open and closed or not.
+# 20 valid parentheses 
+check every parentheses it open and closed or not.
 
 ## Approach
 - created a enpty array

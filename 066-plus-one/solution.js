@@ -1,4 +1,3 @@
-// Number bade digit ko exact representation nhi kr skta ye uski limitations hai isliye bade digit me fail ho jata hai.
 // function plusOne(x) {
 //     return (Number(x.join('')) + 1).toString().split('').map(Number)
 // }

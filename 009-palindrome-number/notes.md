@@ -1,4 +1,5 @@
-009 palindrome number easy
+# 9 palindrome number
+given number as string check palindrome or not.
 
 ## Approach
 - convert number into string.

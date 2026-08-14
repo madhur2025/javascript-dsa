@@ -1,7 +1,7 @@
-function solution(str) {
+function lengthOfLastWord(str) {
     return str.trim().split(' ').at(-1).length
 }
-console.log(solution("hello world "))
+console.log(lengthOfLastWord("hello world "))
 
 // function solution(str) {
 //     let revStr = str.trim().split('').reverse().join('')

@@ -1,4 +1,5 @@
-014 longest common prefix easy
+# 14 longest common prefix
+find the longest common characters in all string in a array and return the prefix.
 
 ## Approach
 - find the shortest length string
