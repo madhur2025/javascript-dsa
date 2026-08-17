@@ -6,6 +6,12 @@ This repository contains my solutions to LeetCode problems, along with notes exp
 
 The main goal of this repository is not just to collect solved problems, but to **improve problem-solving skills, understand DSA patterns, and learn how to optimize solutions over time**.
 
+# 🔗 LeetCode
+
+<a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+
 ---
 
 # 📌 Purpose
