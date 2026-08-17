@@ -1,16 +1,34 @@
-# JavaScript DSA 🚀
+# ⚡ JavaScript DSA
 
-A collection of my **Data Structures & Algorithms (DSA) practice in JavaScript**.
+> My journey of learning **Data Structures & Algorithms with JavaScript** through consistent problem solving.
 
-This repository contains my solutions to LeetCode problems, along with notes explaining the problem, my approach, and the logic behind the solution.
-
-The main goal of this repository is not just to collect solved problems, but to **improve problem-solving skills, understand DSA patterns, and learn how to optimize solutions over time**.
+[![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%2B-blue?style=for-the-badge)](https://leetcode.com/)
+[![Difficulty](https://img.shields.io/badge/Current%20Level-Easy-success?style=for-the-badge)](https://leetcode.com/)
 
 ---
 
-## 📌 Repository Structure
+## 🧠 About This Repository
 
-Each problem has its own folder:
+This repository contains my **DSA practice in JavaScript**, primarily through problems from **LeetCode**.
+
+The purpose of this repository is not simply to collect solutions.
+
+It is a record of my journey to:
+
+- 🧩 Improve problem-solving skills
+- 🧠 Understand DSA patterns
+- ⚡ Learn optimization techniques
+- 📊 Analyze Time & Space Complexity
+- 🔍 Understand edge cases
+- 💻 Become better at writing JavaScript solutions
+- 🎯 Prepare for coding interviews
+
+---
+
+# 📚 Repository Structure
+
+Each problem is organized into its own folder.
 
 ```text
 javascript-dsa/
