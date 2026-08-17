@@ -16,13 +16,13 @@ The purpose of this repository is not simply to collect solutions.
 
 It is a record of my journey to:
 
-- 🧩 Improve problem-solving skills
-- 🧠 Understand DSA patterns
-- ⚡ Learn optimization techniques
-- 📊 Analyze Time & Space Complexity
-- 🔍 Understand edge cases
-- 💻 Become better at writing JavaScript solutions
-- 🎯 Prepare for coding interviews
+- Improve problem-solving skills
+- Understand DSA patterns
+- Learn optimization techniques
+- Analyze Time & Space Complexity
+- Understand edge cases
+- Become better at writing JavaScript solutions
+- Prepare for coding interviews
 
 ---
 
