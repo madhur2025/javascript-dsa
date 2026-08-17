@@ -1,6 +1,6 @@
 # ⚡ JavaScript DSA
 
-> My journey of learning **Data Structures & Algorithms with JavaScript** through consistent problem solving.
+> A collection of my **Data Structures & Algorithms (DSA) practice in JavaScript**.
 
 [![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%2B-blue?style=for-the-badge)](https://leetcode.com/)
