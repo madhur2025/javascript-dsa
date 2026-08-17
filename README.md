@@ -8,7 +8,7 @@ The main goal of this repository is not just to collect solved problems, but to 
 
 ---
 
-## 📌 Purpose
+# 📌 Purpose
 
 - Improve problem-solving skills
 - Understand DSA patterns
