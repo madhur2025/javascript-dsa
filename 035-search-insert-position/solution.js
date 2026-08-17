@@ -25,6 +25,4 @@ function searchInsert(nums, target) {
         if (nums[i] < target && target < nums[i + 1]) return i + 1
     }
 }
-
-
 console.log(searchInsert([1, 3, 5, 6], 2))
