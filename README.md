@@ -2,9 +2,9 @@
 
 > A collection of my **Data Structures & Algorithms (DSA) practice in JavaScript**.
 
-[![Language](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%2B-blue?style=for-the-badge)](https://leetcode.com/)
-[![Difficulty](https://img.shields.io/badge/Current%20Level-Easy-success?style=for-the-badge)](https://leetcode.com/)
+This repository contains my solutions to LeetCode problems, along with notes explaining the problem, my approach, and the logic behind the solution.
+
+The main goal of this repository is not just to collect solved problems, but to **improve problem-solving skills, understand DSA patterns, and learn how to optimize solutions over time**.
 
 ---
 
