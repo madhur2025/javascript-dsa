@@ -8,13 +8,7 @@ The main goal of this repository is not just to collect solved problems, but to 
 
 ---
 
-## 🧠 About This Repository
-
-This repository contains my **DSA practice in JavaScript**, primarily through problems from **LeetCode**.
-
-The purpose of this repository is not simply to collect solutions.
-
-It is a record of my journey to:
+## 📌 Purpose
 
 - Improve problem-solving skills
 - Understand DSA patterns
