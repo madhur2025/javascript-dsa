@@ -1,0 +1,22 @@
+// function removeDuplicates(nums) {
+//     let newArray = []
+//     for (let i = 0; i < nums.length; i++) {
+//         if (!newArray.includes(nums[i])) {
+//             newArray.push(nums[i])
+//         }
+//     }
+//     return newArray.length
+// }
+
+function removeDuplicates(nums) {
+    let index = 1
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] !== nums[i - 1]) {
+            nums[index] = nums[i]
+            index++
+        }
+    }
+    return index
+}
+
+console.log(removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]))

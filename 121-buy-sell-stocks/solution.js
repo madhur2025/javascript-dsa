@@ -1,4 +1,4 @@
-// given array of price starts from day 1 need to buy stock and sell any next day but with maximize prorfit. rerturn the maximum profit we can get
+// given array of price starts from day 1 need to buy stock and sell any next day but with maximize prorfit. return the maximum profit we can get
 
 
 function maxProfit(prices) {
